@@ -1,1 +1,1 @@
-My JavaScript Project using API keys
+My JavaScript Project using API keys.
